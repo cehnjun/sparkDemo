@@ -4,7 +4,8 @@ sparkStreaming
 ----------------
 ### 1. kafka-java
 
->user_log.csv
+>使用的数据集：
+>user_log.csv    
 >user_id,item_id,cat_id,merchant_id,brand_id,month,day,action,age_range,gender,province  
 >328862,323294,833,2882,2661,08,29,0,0,1,内蒙古  
 >328862,844400,1271,2882,2661,08,29,0,1,1,山西  
