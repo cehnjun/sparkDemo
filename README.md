@@ -2,7 +2,7 @@ sparkDemo
 ================
 sparkStreaming  
 ----------------
-### * kafka-java
+### 1. kafka-java
 
 >使用的数据集：
 >user_log.csv    
